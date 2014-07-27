@@ -1,0 +1,1 @@
+This repo contains the Chrome extension CRX packages for the Internet Archive "Save a Page" Plug-In. See [this repo](https://github.com/lintool/chrome-archive-this-page) for the source code and installation instructions.
